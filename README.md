@@ -39,11 +39,9 @@ We then looked at the number of the final rows and columns of each dataset we us
 Through our data analysis, we gained valuable insights into audience preferences, box office trends, and financial metrics, which will inform our recommendations for Microsoft's new movie studio.
 
 ## Recommendations
-![image](https://github.com/Harry-Atulah/dsc-phase-1-project-v2-4/blob/master/Recomendation1.png)
-![image](https://github.com/Harry-Atulah/dsc-phase-1-project-v2-4/blob/master/Recommendation2.png)
-![image](https://github.com/Harry-Atulah/dsc-phase-1-project-v2-4/blob/master/Recommendation3.png)
-![image](https://github.com/Harry-Atulah/dsc-phase-1-project-v2-4/blob/master/Recomendation4.png)
-![image](https://github.com/Harry-Atulah/dsc-phase-1-project-v2-4/blob/master/Recomendation5.png)
+![image](https://github.com/alexminingwa/dsc-phase-1-project-v2-4/blob/master/Recomendation1.png)
+![image](https://github.com/alexminingwa/dsc-phase-1-project-v2-4/blob/master/Recommendation2.png)
+![image](https://github.com/alexminingwa/dsc-phase-1-project-v2-4/blob/master/Recommendation3.png)
 
 
 
